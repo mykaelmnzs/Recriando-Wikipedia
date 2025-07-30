@@ -48,28 +48,6 @@ Para testar a acessibilidade do site, recomendamos o uso do leitor de tela **[NV
 - Marcação clara das seções do documento
 - Navegação por teclado funcional
 
-## 🧭 Como navegar
-
-A estrutura do site é dividida em:
-
-- Um **menu lateral** com âncoras para cada seção
-- Um **footer** com links externos e créditos
-- Uma **área principal** com o conteúdo completo
-
-Você pode navegar facilmente clicando nos títulos ou utilizando um leitor de tela.
-
-## 📁 Estrutura de Arquivos
-
-```
-SpaceX-Fanpage/
-├── index.html
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── images/
-│       └── image.png
-```
-
 ## 📚 Fontes e Referências
 
 - [Wikipedia - SpaceX](https://pt.wikipedia.org/wiki/SpaceX)
